@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@theme {
+	--font-airal: 'Arial', 'sans-serif';
+	--color-primary: oklch(26.9% 0 0);
+}
+
+html {
+	background-color: oklch(26.9% 0 0);
+}
