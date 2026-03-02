@@ -32,11 +32,19 @@ interface BuilderLog {
 
 export const BUILDER_LOG: BuilderLog[] = [
 	{
-		title: 'brewlabshq - Founder',
+		title: 'Brewlabs - Founding Software Engineer',
 		content: 'Espresso for Infra - home for open-source projects.',
 		date: new Date('2025-01-08'),
-		link: 'https://github.com/thruvsol'
+		link: 'https://github.com'
 	},
+	{
+		title: 'Solanki Staking + IceSOL',
+		content:
+			'High performance solana validator - Freeze your SOL for ice cold yields, with over 200K SOL Staked',
+		date: new Date('2024-04-12'),
+		link: 'https://github.com'
+	}
+	/* {
 	{
 		title: 'dynoSOL - Core Team',
 		content:
@@ -45,17 +53,10 @@ export const BUILDER_LOG: BuilderLog[] = [
 		link: 'https://www.dynosol.io/'
 	},
 	{
-		title: 'Ice Staking + IceSOL',
-		content:
-			'High performance solana validator - Freeze your SOL for ice cold yields, with over 200K SOL Staked',
-		date: new Date('2024-04-12'),
-		link: 'https://www.icestaking.com/'
-	},
-	{
 		title: 'Cubik - Co-Founder/CTO',
 		content: 'Funding the future of @Solana, one builder at a time.',
 		date: new Date('2023-02-01'),
-		link: 'https://github.com'
+		link: '#'
 	},
 	{
 		title: 'Superteam Earn - Software Engineer',
@@ -63,7 +64,7 @@ export const BUILDER_LOG: BuilderLog[] = [
 			'An open source platform connecting crypto founders with elite talent to create bounties, and accelerate project completion',
 		date: new Date('2023-01-01'),
 		link: 'https://github.com/SuperteamDAO/earn'
-	}
+	} */
 ].sort((a, b) => b.date.getTime() - a.date.getTime());
 
 type Gig = {
