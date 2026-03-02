@@ -26,19 +26,16 @@
 				I’m a software engineer exploring blockchain infrastructure and DeFi.<br /> As the founder
 				of
 				<a class="font-bold underline" href="https://github.com" target="_blank">
-					Infra Labs HQ
+					Brewlabs
 				</a>, where we build open source projects around solana validator client and tools.
 			</p>
 			<p class="mb-4 leading-relaxed text-gray-400">
-				I operate <a class="font-bold underline" href="https://www.icestaking.com/" target="_blank"
-					>IceStaking</a
-				>, a high-performance Solana validator, and manage the
-				<a class="font-bold underline" href="https://www.dynosol.io" target="_blank">dynoSOL</a> stake
-				pool, to support ecosystem contributors.
+				I operate <a class="font-bold underline" href="https://github.com" target="_blank"
+					>SolankiStaking</a
+				>, a high-performance Solana validator, and manage the stake pool, to support ecosystem contributors.
 			</p>
 			<p class="leading-relaxed text-gray-400 italic">
-				Note: The “sol” in my handle stands for Solanki, not Solana—and sadly I can’t airdrop free
-				SOL. Also, I do not own thruv.sol, but if you find him, send him my regards!
+				Note: The “sol” in my handle stands for Solanki, not Solana—and sadly I can’t airdrop free SOL. Also, I do not own thruv.sol, but if you find him, send him my regards!
 			</p>
 		</section>
 
@@ -160,8 +157,8 @@
 			</header>
 
 			<div class="flex justify-start underline mb-10 gap-3">
-				<a target="_blank" href="https://x.com">X</a>
-				<a target="_blank" href="mailto:andidelouise@gmail.com">Email</a>
+				<a target="_blank" href="https://x.com/">X</a>
+				<a target="_blank" href="mailto:anzadevs@gmail.com">Email</a>
 				<a target="_blank" href="https://github.com/thruvsol">Github</a>
 			</div>
 		</footer>
